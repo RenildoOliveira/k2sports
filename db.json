@@ -1,0 +1,83 @@
+{
+    "produtos": [
+        {
+            "id": "cd31e137-c78c-4fec-a868-d8780bb96b56",
+            "nome": "CAMISA OFICIAL BRASIL BASIC - Amarelo",
+            "descricao": "CAMISA OFICIAL BRASIL BASICORIGEM: NACIONALCOMPOSIÇÃO:100% POLIESTERMEDIDAS APROXIMADAS:TAM. G: 56 CM DE LARGURA / 73 CM DE COMPRIMENTO.",
+            "imagem": "https://static.netshoes.com.br/produtos/camisa-oficial-brasil-basic/30/2CV-0099-030/2CV-0099-030_zoom1.jpg?ts=1661932423&ims=544x",
+            "preco": "229.90",
+            "ativo": true
+        },
+        {
+            "id": "d7d1e66d-4440-4fce-a953-953e456b3848",
+            "nome": "Camisa Flamengo I 21/22 s/n° Torcedor Adidas Masculina - Vermelho+Preto",
+            "descricao": "Uma vez Flamengo, sempre Flamengo! Desenvolvida em material de qualidade, a Camisa Flamengo II 22/23 Goleiro Adidas conta com gola V, mangas curtas, caimento regular, além de tecido de alto desempenho com AEROREADY: tecnologia antissuor que mantém o corpo seco e confortável em dias de calor, garantindo bem-estar, comodidade e proteção na hora do jogo. Campeã da temporada 2022 e 2023, a camisa goleiro feminina II do Flamengo traz em seu design o monograma CRF bordado em preto, logo da Adidas e estrutura com detalhes geométricos em tons contrastantes. Mostre seu orgulho e paixão pelo Mengão, compre agora!.",
+            "imagem": "https://static.netshoes.com.br/produtos/camisa-flamengo-i-2122-sn-torcedor-adidas-masculina/68/NQQ-7755-068/NQQ-7755-068_zoom1.jpg?ts=1614691693&ims=544x",
+            "preco": "349.00",
+            "ativo": true
+        },
+        {
+            "id": "f58ce632-9bd7-45bc-9013-52ad1f04f0f2",
+            "nome": "Camisa Paris Saint-Germain 2021 - Marinho",
+            "imagem": "https://static.netshoes.com.br/produtos/camisa-paris-saint-germain-2021/12/8OY-0000-012/8OY-0000-012_zoom1.jpg?ts=1661966810&ims=544x",
+            "preco": "199.00",
+            "ativo": true,
+            "descricao": "Camisa Paris Saint-Germain 2021 Torcedor Masculin A camisa Paris Saint-Germain Torcedor Pro I conta com tecido altamente ventilado para ajudar a absorver o suor da pele enquanto você torce pelo seu time. Este produto é 100% feito com fibras de poliéster reciclado. Torcida antissuor A tecnologia Dri-FIT ajuda a manter seu corpo seco e confortável. Inspiração da elite O design é modelado de acordo com o que os craques usam em campo. Detalhes do produto."
+        }
+    ],
+    "usuarios": [
+        {
+            "id": "1",
+            "nome": "admin",
+            "email": "admin@mail.com",
+            "senha": "$2a$10$rYK7E/g3ZEbBkIdBWSUVZuC.J0Coj/Utgn8P1X9AiTGgOgxZypkVC",
+            "logado": "true",
+            "tipoUsuario": "admin"
+        },
+        {
+            "nome": "",
+            "email": "",
+            "senha": "$2a$10$/u2BR6b7DysqQPJsJ7xPcupTQ8.apAa5f2EH0x9oaC5Xk9QIIZ/Ke",
+            "id": "ce1ae284-458e-494c-bf99-bd07fe1411fc"
+        },
+        {
+            "nome": "renildo",
+            "email": "renildo@email",
+            "senha": "$2a$10$rYK7E/g3ZEbBkIdBWSUVZuC.J0Coj/Utgn8P1X9AiTGgOgxZypkVC",
+            "id": "898dff5e-d990-4438-8c61-8419c6d1f748"
+        },
+        {
+            "nome": "Renildo Oliveira",
+            "email": "renildo123@email",
+            "senha": "$2a$10$ktfnT.fR1fk/lFq.AlQh/.I7VR1t7LmdhkRRWD/qCv0nxqM8yCpmS",
+            "id": "735e5e53-f262-4627-a919-6704d225330b"
+        }
+    ],
+    
+    "promocaos": [
+        {
+            "id": "cd31e137-c78c-4fec-a868-d8780bb96b56",
+            "nome": "CAMISA OFICIAL BRASIL BASIC - Amarelo",
+            "descricao": "CAMISA OFICIAL BRASIL BASICORIGEM: NACIONALCOMPOSIÇÃO:100% POLIESTERMEDIDAS APROXIMADAS:TAM. G: 56 CM DE LARGURA / 73 CM DE COMPRIMENTO.",
+            "imagem": "https://static.netshoes.com.br/produtos/camisa-flamengo-i-2223-sn-torcedor-adidas-masculina/68/3ZP-5382-068/3ZP-5382-068_zoom1.jpg?ts=1644858741&ims=544x",
+            "preco": "229.90",
+            "ativo": true
+        },
+        {
+            "id": "d7d1e66d-4440-4fce-a953-953e456b3848",
+            "nome": "Camisa Flamengo I 21/22 s/n° Torcedor Adidas Masculina - Vermelho+Preto",
+            "descricao": "Uma vez Flamengo, sempre Flamengo! Desenvolvida em material de qualidade, a Camisa Flamengo II 22/23 Goleiro Adidas conta com gola V, mangas curtas, caimento regular, além de tecido de alto desempenho com AEROREADY: tecnologia antissuor que mantém o corpo seco e confortável em dias de calor, garantindo bem-estar, comodidade e proteção na hora do jogo. Campeã da temporada 2022 e 2023, a camisa goleiro feminina II do Flamengo traz em seu design o monograma CRF bordado em preto, logo da Adidas e estrutura com detalhes geométricos em tons contrastantes. Mostre seu orgulho e paixão pelo Mengão, compre agora!.",
+            "imagem": "https://static.netshoes.com.br/produtos/camisa-flamengo-i-2122-sn-torcedor-adidas-masculina/68/NQQ-7755-068/NQQ-7755-068_zoom1.jpg?ts=1614691693&ims=544x",
+            "preco": "349.00",
+            "ativo": true
+        },
+        {
+            "id": "f58ce632-9bd7-45bc-9013-52ad1f04f0f2",
+            "nome": "Camisa Paris Saint-Germain 2021 - Marinho",
+            "imagem": "https://static.netshoes.com.br/produtos/camisa-paris-saint-germain-2021/12/8OY-0000-012/8OY-0000-012_zoom1.jpg?ts=1661966810&ims=544x",
+            "preco": "199.00",
+            "ativo": true,
+            "descricao": "Camisa Paris Saint-Germain 2021 Torcedor Masculin A camisa Paris Saint-Germain Torcedor Pro I conta com tecido altamente ventilado para ajudar a absorver o suor da pele enquanto você torce pelo seu time. Este produto é 100% feito com fibras de poliéster reciclado. Torcida antissuor A tecnologia Dri-FIT ajuda a manter seu corpo seco e confortável. Inspiração da elite O design é modelado de acordo com o que os craques usam em campo. Detalhes do produto."
+        }
+    ]
+}
