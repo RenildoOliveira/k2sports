@@ -19,7 +19,7 @@
     <main class="">
         <section class="container">
 
-            <h1>Carrinho</h1>
+            <h1>CARRINHO</h1>
             <table class="table table-dark table-striped table-bordered ">
                 <thead>
                     <tr>
@@ -46,6 +46,7 @@
                                 <form action="/carrinho/<%= produto.id %>/remover?_method=DELETE" method="POST">
                                     <button type="submit" class="btn btn-danger">Excluir</button>
                                 </form>
+                               
                             </td>
                         </tr>
                         <% }) %>
@@ -55,6 +56,8 @@
             <h1>Total Carrinho: R$ <%= total %></h1>
 
         </section>
+        <br>
+        <a  href="/" class="btn btn-warning">CLIQUE AQUI PRA COMPRAR MAIS !!</a>
         
     </main>
 
